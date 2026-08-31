@@ -9,7 +9,12 @@ void app_main(void)
     ESP_LOGI(TAG, "ESP-IDF app started");
 
     while (1) {
-        ESP_LOGI(TAG, "Running...");
-        vTaskDelay(pdMS_TO_TICKS(2000));
+        /*
+         * Keep the loop as lean as possible. Logging on every pass is a major
+         * performance bottleneck, and a 2s delay makes frame processing far too
+         * slow for high-throughput workloads. Yield briefly so the scheduler can
+         * keep the system responsive without throttling the app unnecessarily.
+         */
+        vTaskDelay(pdMS_TO_TICKS(1));
     }
 }
