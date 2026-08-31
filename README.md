@@ -1,6 +1,6 @@
 # Tarkov_Gym (ESP-IDF)
 
-This repository now contains a minimal ESP-IDF application scaffold.
+This repository contains a minimal executable ESP-IDF application that starts the firmware and blinks a GPIO output on the target board.
 
 ## Requirements
 
@@ -14,3 +14,5 @@ idf.py set-target esp32
 idf.py build
 idf.py -p <PORT> flash monitor
 ```
+
+The app currently toggles GPIO2 at 500 ms intervals to provide a simple runtime heartbeat. If your board uses a different LED pin, update `BLINK_GPIO` in `main/main.c`.
