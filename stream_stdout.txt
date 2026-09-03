@@ -1,0 +1,8329 @@
+[OK] Connected to COM4 at 115200 baud
+
+==================================================
+Camera Stream Viewer Running
+  Press 'Q' to quit
+  Press 'S' to save frame
+  Press 'B' to brighten | 'N' to darken
+  Press 'G' gamma+ | 'H' gamma-
+  Press 'A' toggle auto-levels | 'R' reset display
+  Press 'T' toggle hexagon tracking
+  Press 'F' force LED flash test
+  Video output enabled: False
+  Startup delay armed for 5000 ms
+  Mouse click enabled: False
+==================================================
+
+INNER:
+center=(91,67)
+radius=14.2
+line_thickness=1.40
+OUTER:
+center=(91,67)
+radius=17.7
+difference=3.59 px
+signed_difference=3.59 px
+confidence=0.97
+candidates=2
+FPS=0.0
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,67)
+radius=11.0
+line_thickness=1.64
+OUTER:
+center=(91,67)
+radius=14.4
+difference=3.36 px
+signed_difference=3.36 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,67)
+radius=14.2
+line_thickness=1.84
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame     30 | FPS: 4.7 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(92,67)
+radius=24.0
+line_thickness=1.23
+OUTER:
+center=(92,66)
+radius=28.6
+difference=4.61 px
+signed_difference=4.61 px
+confidence=0.95
+candidates=2
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(92,66)
+radius=24.0
+line_thickness=1.22
+OUTER:
+center=(91,66)
+radius=28.3
+difference=4.28 px
+signed_difference=4.28 px
+confidence=0.94
+candidates=2
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 1
+Inner radius: 22.8 px
+Starting outer radius: 28.6 px
+Final outer radius: 27.0 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1728 ms
+Predicted match: NA
+Actual match: 1728 ms
+Frames: 4
+Confidence: 0.96
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(91,66)
+radius=22.8
+line_thickness=1.38
+OUTER:
+center=(91,67)
+radius=27.0
+difference=4.26 px
+signed_difference=4.26 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+action=LED flash triggered
+
+INNER:
+center=(91,67)
+radius=22.4
+line_thickness=1.04
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.95
+candidates=1
+FPS=4.6
+state=CLICK_COOLDOWN
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=21.5
+line_thickness=1.31
+OUTER:
+center=(91,66)
+radius=25.5
+difference=3.92 px
+signed_difference=3.92 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=21.4
+line_thickness=1.43
+OUTER:
+center=(91,66)
+radius=25.4
+difference=4.00 px
+signed_difference=4.00 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame     60 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=19.8
+line_thickness=1.30
+OUTER:
+center=(92,66)
+radius=24.3
+difference=4.47 px
+signed_difference=4.47 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(92,67)
+radius=20.0
+line_thickness=1.29
+OUTER:
+center=(91,66)
+radius=24.6
+difference=4.58 px
+signed_difference=4.58 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=18.7
+line_thickness=1.33
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=18.7
+line_thickness=1.31
+OUTER:
+center=(91,66)
+radius=22.4
+difference=3.73 px
+signed_difference=3.73 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=18.0
+line_thickness=1.33
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=17.4
+line_thickness=1.44
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=17.3
+line_thickness=1.44
+OUTER:
+center=(91,66)
+radius=21.2
+difference=3.90 px
+signed_difference=3.90 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=16.9
+line_thickness=1.40
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.98
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=1
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame     90 | FPS: 4.6 | Errors: 0
+INNER:
+center=(91,67)
+radius=15.7
+line_thickness=1.38
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,67)
+radius=15.6
+line_thickness=1.35
+OUTER:
+center=(90,66)
+radius=20.1
+difference=4.52 px
+signed_difference=4.52 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 2
+Inner radius: 14.9 px
+Starting outer radius: 19.3 px
+Final outer radius: 18.2 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1513 ms
+Predicted match: NA
+Actual match: 1513 ms
+Frames: 3
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(91,67)
+radius=14.9
+line_thickness=1.40
+OUTER:
+center=(91,67)
+radius=18.2
+difference=3.27 px
+signed_difference=3.27 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+action=LED flash triggered
+
+INNER:
+center=(91,66)
+radius=14.9
+line_thickness=1.34
+OUTER:
+center=(91,66)
+radius=18.9
+difference=3.96 px
+signed_difference=3.96 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,67)
+radius=14.8
+line_thickness=1.32
+OUTER:
+center=(91,67)
+radius=18.0
+difference=3.21 px
+signed_difference=3.21 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.8
+line_thickness=1.36
+OUTER:
+center=(92,67)
+radius=18.5
+difference=3.74 px
+signed_difference=3.74 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.2
+line_thickness=1.52
+OUTER:
+center=(91,67)
+radius=17.3
+difference=3.06 px
+signed_difference=3.06 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.15 px/frame, 0.32 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=9561 ms
+
+INNER:
+center=(91,66)
+radius=14.2
+line_thickness=1.51
+OUTER:
+center=(91,67)
+radius=17.6
+difference=3.38 px
+signed_difference=3.38 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    120 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.2
+line_thickness=1.52
+OUTER:
+center=(91,67)
+radius=17.3
+difference=3.12 px
+signed_difference=3.12 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.10 px/frame, 0.22 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=13918 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.12 px/frame, 0.26 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.12 px/frame, 0.26 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.12 px/frame, 0.26 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,67)
+radius=14.0
+line_thickness=1.47
+OUTER:
+center=(91,66)
+radius=17.6
+difference=3.61 px
+signed_difference=3.61 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,67)
+radius=10.6
+line_thickness=1.44
+OUTER:
+center=(91,66)
+radius=14.4
+difference=3.77 px
+signed_difference=3.77 px
+confidence=0.95
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.5
+line_thickness=1.72
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=2
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.2
+line_thickness=1.85
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    150 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=24.0
+line_thickness=1.23
+OUTER:
+center=(92,66)
+radius=28.7
+difference=4.64 px
+signed_difference=4.64 px
+confidence=0.94
+candidates=2
+FPS=4.6
+state=TRACKING
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=24.0
+line_thickness=1.17
+OUTER:
+center=(92,66)
+radius=29.1
+difference=5.11 px
+signed_difference=5.11 px
+confidence=0.93
+candidates=2
+FPS=4.6
+state=TRACKING
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    180 | FPS: 4.6 | Errors: 0
+INNER:
+center=(91,65)
+radius=23.1
+line_thickness=1.23
+OUTER:
+center=(91,66)
+radius=27.5
+difference=4.40 px
+signed_difference=4.40 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 3
+Inner radius: 22.8 px
+Starting outer radius: 28.7 px
+Final outer radius: 27.4 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1945 ms
+Predicted match: NA
+Actual match: 1945 ms
+Frames: 4
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(90,66)
+radius=22.9
+line_thickness=1.24
+OUTER:
+center=(91,65)
+radius=27.9
+difference=5.01 px
+signed_difference=5.01 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=21.6
+line_thickness=1.34
+OUTER:
+center=(91,65)
+radius=25.8
+difference=4.22 px
+signed_difference=4.22 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.54 px/frame, 0.83 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=5086 ms
+
+INNER:
+center=(91,66)
+radius=21.6
+line_thickness=1.33
+OUTER:
+center=(91,67)
+radius=25.8
+difference=4.22 px
+signed_difference=4.22 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=19.9
+line_thickness=1.38
+OUTER:
+center=(91,66)
+radius=24.4
+difference=4.43 px
+signed_difference=4.43 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.56 px/frame, 0.90 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4899 ms
+
+INNER:
+center=(91,66)
+radius=20.2
+line_thickness=1.36
+OUTER:
+center=(91,66)
+radius=24.2
+difference=3.98 px
+signed_difference=3.98 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.48 px/frame, 0.89 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4453 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.44 px/frame, 0.87 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.44 px/frame, 0.87 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.44 px/frame, 0.87 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=18.7
+line_thickness=1.37
+OUTER:
+center=(91,66)
+radius=22.6
+difference=3.88 px
+signed_difference=3.88 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.58 px/frame, 0.92 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4205 ms
+
+INNER:
+center=(91,66)
+radius=18.5
+line_thickness=1.38
+OUTER:
+center=(90,66)
+radius=22.3
+difference=3.81 px
+signed_difference=3.81 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.49 px/frame, 0.92 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=4156 ms
+
+Frame    210 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.49 px/frame, 0.92 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.49 px/frame, 0.92 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=17.4
+line_thickness=1.34
+OUTER:
+center=(90,66)
+radius=20.8
+difference=3.39 px
+signed_difference=3.39 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.46 px/frame, 0.90 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=3770 ms
+
+INNER:
+center=(91,66)
+radius=17.4
+line_thickness=1.39
+OUTER:
+center=(91,66)
+radius=21.2
+difference=3.82 px
+signed_difference=3.82 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.46 px/frame, 0.90 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4222 ms
+
+INNER:
+center=(91,66)
+radius=16.9
+line_thickness=1.33
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.46 px/frame, 0.90 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.8
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.46 px/frame, 0.90 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.9
+state=ROUND_COMPLETE
+round=3
+shrink_rate=0.46 px/frame, 0.90 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=15.8
+line_thickness=1.43
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=4
+shrink_rate=0.46 px/frame, 0.90 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=15.8
+line_thickness=1.43
+OUTER:
+center=(90,66)
+radius=20.0
+difference=4.22 px
+signed_difference=4.22 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=TRACKING
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=TRACKING
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=TRACKING
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 4
+Inner radius: 14.9 px
+Starting outer radius: 19.9 px
+Final outer radius: 18.3 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1513 ms
+Predicted match: 4613 ms
+Actual match: 1513 ms
+Frames: 3
+Confidence: 0.96
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(91,66)
+radius=14.9
+line_thickness=1.42
+OUTER:
+center=(91,67)
+radius=18.3
+difference=3.38 px
+signed_difference=3.38 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=CLICK_COOLDOWN
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+action=LED flash triggered
+
+INNER:
+center=(91,66)
+radius=14.9
+line_thickness=1.35
+OUTER:
+center=(91,67)
+radius=18.2
+difference=3.34 px
+signed_difference=3.34 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=CLICK_COOLDOWN
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.8
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.8
+line_thickness=1.45
+OUTER:
+center=(90,67)
+radius=17.8
+difference=3.04 px
+signed_difference=3.04 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+Frame    240 | FPS: 4.6 | Errors: 0
+INNER:
+center=(91,66)
+radius=14.8
+line_thickness=1.45
+OUTER:
+center=(90,65)
+radius=19.1
+difference=4.33 px
+signed_difference=4.33 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.0
+line_thickness=1.29
+OUTER:
+center=(91,67)
+radius=17.4
+difference=3.46 px
+signed_difference=3.46 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,67)
+radius=13.5
+line_thickness=1.38
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=13.7
+line_thickness=1.33
+OUTER:
+center=(91,66)
+radius=17.6
+difference=3.94 px
+signed_difference=3.94 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.0
+line_thickness=1.42
+OUTER:
+center=(91,66)
+radius=17.2
+difference=3.27 px
+signed_difference=3.27 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,67)
+radius=11.1
+line_thickness=1.71
+OUTER:
+center=(91,67)
+radius=13.9
+difference=2.81 px
+signed_difference=2.81 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    270 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=10.5
+line_thickness=1.42
+OUTER:
+center=(91,66)
+radius=13.8
+difference=3.30 px
+signed_difference=3.30 px
+confidence=0.93
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=4
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    300 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=24.3
+line_thickness=1.36
+OUTER:
+center=(90,65)
+radius=28.2
+difference=3.94 px
+signed_difference=3.94 px
+confidence=0.92
+candidates=2
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=24.0
+line_thickness=1.29
+OUTER:
+center=(90,65)
+radius=29.0
+difference=4.97 px
+signed_difference=4.97 px
+confidence=0.92
+candidates=2
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,64)
+radius=23.0
+line_thickness=1.18
+OUTER:
+center=(91,65)
+radius=27.7
+difference=4.72 px
+signed_difference=4.72 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=23.1
+line_thickness=1.32
+OUTER:
+center=(91,65)
+radius=27.3
+difference=4.16 px
+signed_difference=4.16 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.37 px/frame, 0.75 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=5526 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.37 px/frame, 0.75 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.37 px/frame, 0.75 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=21.3
+line_thickness=1.35
+OUTER:
+center=(91,66)
+radius=25.3
+difference=4.03 px
+signed_difference=4.03 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=5
+shrink_rate=0.65 px/frame, 1.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4013 ms
+
+ROUND 5
+Inner radius: 21.8 px
+Starting outer radius: 28.2 px
+Final outer radius: 25.8 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 3891 ms
+Predicted match: 7687 ms
+Actual match: 3891 ms
+Frames: 8
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(91,65)
+radius=21.8
+line_thickness=1.34
+OUTER:
+center=(91,65)
+radius=25.8
+difference=4.08 px
+signed_difference=4.08 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+action=LED flash triggered
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=CLICK_COOLDOWN
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=19.9
+line_thickness=1.32
+OUTER:
+center=(91,65)
+radius=24.2
+difference=4.37 px
+signed_difference=4.37 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.57 px/frame, 0.92 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4729 ms
+
+INNER:
+center=(91,66)
+radius=20.3
+line_thickness=1.36
+OUTER:
+center=(91,65)
+radius=24.1
+difference=3.84 px
+signed_difference=3.84 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.49 px/frame, 0.91 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4222 ms
+
+Frame    330 | FPS: 4.6 | Errors: 0
+INNER:
+center=(91,65)
+radius=19.7
+line_thickness=1.37
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.45 px/frame, 0.89 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.45 px/frame, 0.89 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=18.4
+line_thickness=1.48
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.45 px/frame, 0.89 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=18.6
+line_thickness=1.45
+OUTER:
+center=(90,66)
+radius=22.4
+difference=3.81 px
+signed_difference=3.81 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.47 px/frame, 0.92 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4134 ms
+
+INNER:
+center=(91,66)
+radius=18.6
+line_thickness=1.37
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.44 px/frame, 0.86 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.44 px/frame, 0.86 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.44 px/frame, 0.86 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=17.6
+line_thickness=1.42
+OUTER:
+center=(90,66)
+radius=21.0
+difference=3.36 px
+signed_difference=3.36 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=16.7
+line_thickness=1.33
+OUTER:
+center=(90,66)
+radius=21.1
+difference=4.36 px
+signed_difference=4.36 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.45 px/frame, 0.88 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4956 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.45 px/frame, 0.88 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.45 px/frame, 0.88 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=15.7
+line_thickness=1.41
+OUTER:
+center=(91,66)
+radius=19.6
+difference=3.93 px
+signed_difference=3.93 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.44 px/frame, 0.85 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4607 ms
+
+INNER:
+center=(91,65)
+radius=15.4
+line_thickness=1.35
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.44 px/frame, 0.85 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+Frame    360 | FPS: 4.6 | Errors: 0
+INNER:
+center=(91,66)
+radius=15.0
+line_thickness=1.34
+OUTER:
+center=(91,66)
+radius=18.3
+difference=3.30 px
+signed_difference=3.30 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=14.5
+line_thickness=1.43
+OUTER:
+center=(91,66)
+radius=18.4
+difference=3.91 px
+signed_difference=3.91 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.7
+line_thickness=1.32
+OUTER:
+center=(91,66)
+radius=17.9
+difference=3.21 px
+signed_difference=3.21 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.5
+line_thickness=1.34
+OUTER:
+center=(90,65)
+radius=18.8
+difference=4.32 px
+signed_difference=4.32 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.7
+line_thickness=1.36
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=13.7
+line_thickness=1.42
+OUTER:
+center=(91,66)
+radius=17.6
+difference=3.86 px
+signed_difference=3.86 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=13.9
+line_thickness=1.34
+OUTER:
+center=(91,66)
+radius=17.4
+difference=3.55 px
+signed_difference=3.55 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    390 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=13.8
+line_thickness=1.42
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.8
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=14.0
+line_thickness=1.38
+OUTER:
+center=(90,66)
+radius=17.5
+difference=3.42 px
+signed_difference=3.42 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=10.9
+line_thickness=1.76
+OUTER:
+center=(90,66)
+radius=13.9
+difference=3.03 px
+signed_difference=3.03 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=10.5
+line_thickness=1.72
+OUTER:
+center=(90,66)
+radius=13.9
+difference=3.35 px
+signed_difference=3.35 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=5
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    420 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=24.2
+line_thickness=1.34
+OUTER:
+center=(91,65)
+radius=28.5
+difference=4.35 px
+signed_difference=4.35 px
+confidence=0.94
+candidates=2
+FPS=4.6
+state=TRACKING
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=24.1
+line_thickness=1.40
+OUTER:
+center=(91,65)
+radius=29.2
+difference=5.08 px
+signed_difference=5.08 px
+confidence=0.93
+candidates=2
+FPS=4.6
+state=TRACKING
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=23.0
+line_thickness=1.36
+OUTER:
+center=(91,65)
+radius=27.1
+difference=4.12 px
+signed_difference=4.12 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 6
+Inner radius: 23.0 px
+Starting outer radius: 28.5 px
+Final outer radius: 27.4 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1945 ms
+Predicted match: NA
+Actual match: 1945 ms
+Frames: 4
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(91,65)
+radius=23.0
+line_thickness=1.29
+OUTER:
+center=(91,65)
+radius=27.2
+difference=4.20 px
+signed_difference=4.20 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    450 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=21.5
+line_thickness=1.36
+OUTER:
+center=(91,65)
+radius=25.8
+difference=4.27 px
+signed_difference=4.27 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.61 px/frame, 0.94 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=4554 ms
+
+INNER:
+center=(90,65)
+radius=21.7
+line_thickness=1.39
+OUTER:
+center=(91,65)
+radius=26.3
+difference=4.60 px
+signed_difference=4.60 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=20.2
+line_thickness=1.33
+OUTER:
+center=(91,65)
+radius=24.3
+difference=4.10 px
+signed_difference=4.10 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.54 px/frame, 0.87 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4693 ms
+
+INNER:
+center=(91,65)
+radius=20.1
+line_thickness=1.36
+OUTER:
+center=(90,65)
+radius=24.2
+difference=4.06 px
+signed_difference=4.06 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.47 px/frame, 0.87 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4678 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.44 px/frame, 0.86 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.44 px/frame, 0.86 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=18.6
+line_thickness=1.37
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.44 px/frame, 0.86 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=18.6
+line_thickness=1.34
+OUTER:
+center=(90,65)
+radius=22.6
+difference=3.99 px
+signed_difference=3.99 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.45 px/frame, 0.87 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=4573 ms
+
+INNER:
+center=(90,65)
+radius=18.6
+line_thickness=1.39
+OUTER:
+center=(91,65)
+radius=22.9
+difference=4.34 px
+signed_difference=4.34 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=17.0
+line_thickness=1.35
+OUTER:
+center=(90,65)
+radius=21.0
+difference=4.02 px
+signed_difference=4.02 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+Frame    480 | FPS: 4.6 | Errors: 0
+INNER:
+center=(90,66)
+radius=17.2
+line_thickness=1.35
+OUTER:
+center=(90,65)
+radius=21.1
+difference=3.90 px
+signed_difference=3.90 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,66)
+radius=15.7
+line_thickness=1.34
+OUTER:
+center=(90,65)
+radius=19.8
+difference=4.11 px
+signed_difference=4.11 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.42 px/frame, 0.85 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4847 ms
+
+INNER:
+center=(91,66)
+radius=15.7
+line_thickness=1.41
+OUTER:
+center=(90,66)
+radius=19.2
+difference=3.57 px
+signed_difference=3.57 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.42 px/frame, 0.85 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4191 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=14.6
+line_thickness=1.39
+OUTER:
+center=(90,65)
+radius=18.2
+difference=3.62 px
+signed_difference=3.62 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.39 px/frame, 0.82 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4433 ms
+
+INNER:
+center=(90,66)
+radius=14.6
+line_thickness=1.39
+OUTER:
+center=(90,65)
+radius=18.1
+difference=3.46 px
+signed_difference=3.46 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.38 px/frame, 0.81 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4281 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.38 px/frame, 0.81 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.38 px/frame, 0.81 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.6
+line_thickness=1.39
+OUTER:
+center=(91,66)
+radius=18.3
+difference=3.69 px
+signed_difference=3.69 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.32 px/frame, 0.64 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=5729 ms
+
+INNER:
+center=(90,65)
+radius=14.3
+line_thickness=1.32
+OUTER:
+center=(91,65)
+radius=18.3
+difference=4.07 px
+signed_difference=4.07 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    510 | FPS: 4.6 | Errors: 0
+INNER:
+center=(90,66)
+radius=14.1
+line_thickness=1.47
+OUTER:
+center=(90,66)
+radius=17.1
+difference=3.05 px
+signed_difference=3.05 px
+confidence=0.96
+candidates=3
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.31 px/frame, 0.53 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=5764 ms
+
+INNER:
+center=(90,66)
+radius=14.0
+line_thickness=1.48
+OUTER:
+center=(90,66)
+radius=17.6
+difference=3.61 px
+signed_difference=3.61 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=13.9
+line_thickness=1.44
+OUTER:
+center=(90,65)
+radius=17.2
+difference=3.33 px
+signed_difference=3.33 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.0
+line_thickness=1.43
+OUTER:
+center=(89,64)
+radius=18.6
+difference=4.63 px
+signed_difference=4.63 px
+confidence=0.95
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.0
+line_thickness=1.51
+OUTER:
+center=(90,66)
+radius=17.2
+difference=3.23 px
+signed_difference=3.23 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=11.0
+line_thickness=1.71
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    540 | FPS: 4.6 | Errors: 0
+INNER:
+center=(90,66)
+radius=10.8
+line_thickness=1.81
+OUTER:
+center=(90,65)
+radius=14.1
+difference=3.28 px
+signed_difference=3.28 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.33 px/frame, 0.46 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=7125 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.8
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=6
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.8
+state=WAITING_FOR_TARGET
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=24.1
+line_thickness=1.39
+OUTER:
+center=(91,65)
+radius=28.7
+difference=4.58 px
+signed_difference=4.58 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=TRACKING
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    570 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 7
+Inner radius: 23.1 px
+Starting outer radius: 46.7 px
+Final outer radius: 27.7 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1730 ms
+Predicted match: NA
+Actual match: 1730 ms
+Frames: 3
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(90,65)
+radius=22.8
+line_thickness=1.42
+OUTER:
+center=(91,65)
+radius=27.6
+difference=4.79 px
+signed_difference=4.79 px
+confidence=0.94
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.27 px/frame, 0.55 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.27 px/frame, 0.55 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=21.6
+line_thickness=1.37
+OUTER:
+center=(91,65)
+radius=25.6
+difference=4.06 px
+signed_difference=4.06 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.54 px/frame, 0.89 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4544 ms
+
+INNER:
+center=(91,65)
+radius=21.3
+line_thickness=1.32
+OUTER:
+center=(90,64)
+radius=25.5
+difference=4.16 px
+signed_difference=4.16 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.49 px/frame, 0.99 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=4196 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.45 px/frame, 0.97 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.45 px/frame, 0.97 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=19.5
+line_thickness=1.36
+OUTER:
+center=(91,64)
+radius=24.3
+difference=4.77 px
+signed_difference=4.77 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.52 px/frame, 0.98 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4878 ms
+
+INNER:
+center=(90,65)
+radius=19.7
+line_thickness=1.37
+OUTER:
+center=(90,65)
+radius=23.8
+difference=4.10 px
+signed_difference=4.10 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.46 px/frame, 0.97 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4237 ms
+
+INNER:
+center=(91,65)
+radius=19.7
+line_thickness=1.30
+OUTER:
+center=(91,65)
+radius=24.4
+difference=4.74 px
+signed_difference=4.74 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    600 | FPS: 4.6 | Errors: 0
+INNER:
+center=(90,66)
+radius=18.0
+line_thickness=1.14
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.95
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=7
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=18.0
+line_thickness=1.15
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.95
+candidates=1
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=17.2
+line_thickness=1.34
+OUTER:
+center=(90,65)
+radius=21.0
+difference=3.81 px
+signed_difference=3.81 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=16.9
+line_thickness=1.43
+OUTER:
+center=(90,65)
+radius=21.0
+difference=4.08 px
+signed_difference=4.08 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=15.7
+line_thickness=1.40
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=15.7
+line_thickness=1.39
+OUTER:
+center=(90,65)
+radius=19.2
+difference=3.56 px
+signed_difference=3.56 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=8
+shrink_rate=0.38 px/frame, 0.89 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4001 ms
+
+ROUND 8
+Inner radius: 15.3 px
+Starting outer radius: 27.4 px
+Final outer radius: 20.0 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 4107 ms
+Predicted match: 7676 ms
+Actual match: 4107 ms
+Frames: 7
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(90,65)
+radius=15.3
+line_thickness=1.44
+OUTER:
+center=(90,65)
+radius=20.0
+difference=4.66 px
+signed_difference=4.66 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+action=LED flash triggered
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=CLICK_COOLDOWN
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.7
+line_thickness=1.42
+OUTER:
+center=(90,65)
+radius=18.3
+difference=3.57 px
+signed_difference=3.57 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.7
+line_thickness=1.42
+OUTER:
+center=(90,66)
+radius=18.1
+difference=3.36 px
+signed_difference=3.36 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.35 px/frame, 0.77 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4397 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.35 px/frame, 0.77 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    630 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.35 px/frame, 0.77 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.5
+line_thickness=1.45
+OUTER:
+center=(91,66)
+radius=18.0
+difference=3.46 px
+signed_difference=3.46 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.37 px/frame, 0.69 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=5052 ms
+
+INNER:
+center=(90,65)
+radius=14.5
+line_thickness=1.45
+OUTER:
+center=(90,65)
+radius=18.5
+difference=3.95 px
+signed_difference=3.95 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.30 px/frame, 0.58 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=6834 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.30 px/frame, 0.58 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.30 px/frame, 0.58 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=13.7
+line_thickness=1.43
+OUTER:
+center=(90,65)
+radius=17.8
+difference=4.03 px
+signed_difference=4.03 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.31 px/frame, 0.50 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=8033 ms
+
+INNER:
+center=(90,65)
+radius=14.1
+line_thickness=1.46
+OUTER:
+center=(90,66)
+radius=17.2
+difference=3.07 px
+signed_difference=3.07 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.19 px/frame, 0.36 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=8476 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.8
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.19 px/frame, 0.36 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.19 px/frame, 0.36 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=13.8
+line_thickness=1.46
+OUTER:
+center=(89,65)
+radius=18.5
+difference=4.65 px
+signed_difference=4.65 px
+confidence=0.95
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.14 px/frame, 0.24 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=19743 ms
+
+INNER:
+center=(90,65)
+radius=13.3
+line_thickness=1.48
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.95
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.13 px/frame, 0.22 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.13 px/frame, 0.22 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.13 px/frame, 0.22 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=13.8
+line_thickness=1.48
+OUTER:
+center=(90,66)
+radius=17.1
+difference=3.24 px
+signed_difference=3.24 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.10 px/frame, 0.17 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=19121 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.08 px/frame, 0.13 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    660 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.08 px/frame, 0.13 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=8
+shrink_rate=0.08 px/frame, 0.13 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=14.6
+line_thickness=1.89
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.08 px/frame, 0.13 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.08 px/frame, 0.13 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.08 px/frame, 0.13 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=10.5
+line_thickness=1.77
+OUTER:
+center=(90,66)
+radius=14.2
+difference=3.66 px
+signed_difference=3.66 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=TRACKING
+round=9
+shrink_rate=0.08 px/frame, 0.13 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=27279 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    690 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,64)
+radius=24.0
+line_thickness=1.43
+OUTER:
+center=(91,64)
+radius=28.7
+difference=4.64 px
+signed_difference=4.64 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=TRACKING
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,64)
+radius=24.1
+line_thickness=1.41
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.98
+candidates=1
+FPS=4.6
+state=TRACKING
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 9
+Inner radius: 22.7 px
+Starting outer radius: 28.6 px
+Final outer radius: 27.0 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1944 ms
+Predicted match: NA
+Actual match: 1944 ms
+Frames: 4
+Confidence: 0.96
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(90,64)
+radius=22.7
+line_thickness=1.41
+OUTER:
+center=(90,65)
+radius=27.0
+difference=4.30 px
+signed_difference=4.30 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+action=LED flash triggered
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=CLICK_COOLDOWN
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=21.0
+line_thickness=1.28
+OUTER:
+center=(90,64)
+radius=25.6
+difference=4.57 px
+signed_difference=4.57 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.51 px/frame, 0.88 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=5191 ms
+
+INNER:
+center=(90,65)
+radius=20.8
+line_thickness=1.38
+OUTER:
+center=(92,63)
+radius=25.8
+difference=5.03 px
+signed_difference=5.03 px
+confidence=0.93
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.38 px/frame, 0.77 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=6502 ms
+
+Frame    720 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.38 px/frame, 0.77 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.38 px/frame, 0.77 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=19.9
+line_thickness=1.36
+OUTER:
+center=(90,65)
+radius=24.1
+difference=4.15 px
+signed_difference=4.15 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.45 px/frame, 0.87 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=4740 ms
+
+INNER:
+center=(90,65)
+radius=19.7
+line_thickness=1.35
+OUTER:
+center=(90,65)
+radius=24.0
+difference=4.26 px
+signed_difference=4.26 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=18.8
+line_thickness=1.37
+OUTER:
+center=(90,65)
+radius=22.2
+difference=3.47 px
+signed_difference=3.47 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=18.8
+line_thickness=1.33
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.98
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=9
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=17.2
+line_thickness=1.35
+OUTER:
+center=(90,65)
+radius=21.1
+difference=3.88 px
+signed_difference=3.88 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=17.1
+line_thickness=1.35
+OUTER:
+center=(90,65)
+radius=20.8
+difference=3.65 px
+signed_difference=3.65 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 10
+Inner radius: 17.0 px
+Starting outer radius: 21.1 px
+Final outer radius: 20.9 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 649 ms
+Predicted match: NA
+Actual match: 649 ms
+Frames: 3
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=CLICK_COOLDOWN
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=15.4
+line_thickness=1.40
+OUTER:
+center=(90,65)
+radius=19.5
+difference=4.06 px
+signed_difference=4.06 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    750 | FPS: 4.6 | Errors: 0
+INNER:
+center=(90,65)
+radius=15.7
+line_thickness=1.39
+OUTER:
+center=(90,65)
+radius=19.4
+difference=3.61 px
+signed_difference=3.61 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.33 px/frame, 0.84 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4289 ms
+
+INNER:
+center=(90,65)
+radius=15.6
+line_thickness=1.37
+OUTER:
+center=(90,65)
+radius=19.5
+difference=3.94 px
+signed_difference=3.94 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.8
+line_thickness=1.40
+OUTER:
+center=(90,65)
+radius=18.2
+difference=3.42 px
+signed_difference=3.42 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.5
+line_thickness=1.46
+OUTER:
+center=(89,64)
+radius=19.8
+difference=5.32 px
+signed_difference=5.32 px
+confidence=0.93
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.4
+line_thickness=1.46
+OUTER:
+center=(90,65)
+radius=18.0
+difference=3.62 px
+signed_difference=3.62 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.6
+line_thickness=1.43
+OUTER:
+center=(90,65)
+radius=17.9
+difference=3.32 px
+signed_difference=3.32 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.8
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.0
+line_thickness=1.43
+OUTER:
+center=(90,66)
+radius=17.1
+difference=3.08 px
+signed_difference=3.08 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=13.9
+line_thickness=1.44
+OUTER:
+center=(90,66)
+radius=16.9
+difference=3.07 px
+signed_difference=3.07 px
+confidence=0.95
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    780 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=13.9
+line_thickness=1.46
+OUTER:
+center=(90,66)
+radius=16.9
+difference=3.01 px
+signed_difference=3.01 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=13.4
+line_thickness=1.30
+OUTER:
+center=(90,65)
+radius=17.6
+difference=4.14 px
+signed_difference=4.14 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=13.9
+line_thickness=1.49
+OUTER:
+center=(90,65)
+radius=17.7
+difference=3.81 px
+signed_difference=3.81 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=10
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.2
+line_thickness=1.83
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=10.5
+line_thickness=1.50
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.95
+candidates=1
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    810 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,64)
+radius=24.1
+line_thickness=1.44
+OUTER:
+center=(91,64)
+radius=28.6
+difference=4.46 px
+signed_difference=4.46 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    840 | FPS: 4.6 | Errors: 0
+ROUND 11
+Inner radius: 22.7 px
+Starting outer radius: 28.7 px
+Final outer radius: 27.0 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1944 ms
+Predicted match: NA
+Actual match: 1944 ms
+Frames: 4
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(90,64)
+radius=22.7
+line_thickness=1.42
+OUTER:
+center=(90,65)
+radius=27.0
+difference=4.30 px
+signed_difference=4.30 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+action=LED flash triggered
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=CLICK_COOLDOWN
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=21.1
+line_thickness=1.23
+OUTER:
+center=(90,64)
+radius=25.5
+difference=4.36 px
+signed_difference=4.36 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.64 px/frame, 1.06 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4120 ms
+
+INNER:
+center=(90,65)
+radius=21.2
+line_thickness=1.36
+OUTER:
+center=(90,64)
+radius=25.7
+difference=4.52 px
+signed_difference=4.52 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=20.6
+line_thickness=1.12
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=20.0
+line_thickness=1.36
+OUTER:
+center=(90,65)
+radius=23.5
+difference=3.55 px
+signed_difference=3.55 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,64)
+radius=20.1
+line_thickness=1.32
+OUTER:
+center=(90,64)
+radius=24.2
+difference=4.05 px
+signed_difference=4.05 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(91,65)
+radius=20.2
+line_thickness=1.40
+OUTER:
+center=(90,64)
+radius=24.2
+difference=3.96 px
+signed_difference=3.96 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=18.5
+line_thickness=1.37
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=11
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=18.5
+line_thickness=1.34
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    870 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,64)
+radius=17.0
+line_thickness=1.30
+OUTER:
+center=(90,64)
+radius=21.2
+difference=4.12 px
+signed_difference=4.12 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=17.2
+line_thickness=1.36
+OUTER:
+center=(90,65)
+radius=20.6
+difference=3.39 px
+signed_difference=3.39 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 12
+Inner radius: 17.1 px
+Starting outer radius: 21.2 px
+Final outer radius: 21.0 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 647 ms
+Predicted match: NA
+Actual match: 647 ms
+Frames: 3
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=CLICK_COOLDOWN
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=15.8
+line_thickness=1.44
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=15.8
+line_thickness=1.44
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=ROUND_COMPLETE
+round=12
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=15.4
+line_thickness=1.49
+OUTER:
+center=(89,65)
+radius=19.9
+difference=4.52 px
+signed_difference=4.52 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=12
+shrink_rate=0.24 px/frame, 0.51 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=8913 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=12
+shrink_rate=0.24 px/frame, 0.51 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=12
+shrink_rate=0.24 px/frame, 0.51 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.4
+line_thickness=1.30
+OUTER:
+center=(86,64)
+radius=21.5
+difference=7.06 px
+signed_difference=7.06 px
+confidence=0.92
+candidates=2
+FPS=4.6
+state=TRACKING
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.7
+line_thickness=1.36
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.6
+state=TRACKING
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 13
+Inner radius: 14.4 px
+Starting outer radius: 21.5 px
+Final outer radius: 18.0 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 1729 ms
+Predicted match: NA
+Actual match: 1729 ms
+Frames: 3
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(90,65)
+radius=14.4
+line_thickness=1.45
+OUTER:
+center=(90,65)
+radius=18.0
+difference=3.56 px
+signed_difference=3.56 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+action=LED flash triggered
+
+Frame    900 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=CLICK_COOLDOWN
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.0
+line_thickness=1.49
+OUTER:
+center=(90,65)
+radius=17.6
+difference=3.66 px
+signed_difference=3.66 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.37 px/frame, 0.57 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=6465 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.27 px/frame, 0.48 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.27 px/frame, 0.48 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.27 px/frame, 0.48 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=14.0
+line_thickness=1.40
+OUTER:
+center=(90,66)
+radius=17.5
+difference=3.47 px
+signed_difference=3.47 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.20 px/frame, 0.32 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=10711 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.20 px/frame, 0.32 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.20 px/frame, 0.32 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=13.9
+line_thickness=1.45
+OUTER:
+center=(90,65)
+radius=17.0
+difference=3.06 px
+signed_difference=3.06 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.21 px/frame, 0.30 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=10068 ms
+
+INNER:
+center=(90,65)
+radius=13.9
+line_thickness=1.34
+OUTER:
+center=(90,65)
+radius=17.3
+difference=3.43 px
+signed_difference=3.43 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.16 px/frame, 0.26 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=12950 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.16 px/frame, 0.26 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.16 px/frame, 0.26 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,66)
+radius=10.5
+line_thickness=1.64
+OUTER:
+center=(90,65)
+radius=14.0
+difference=3.48 px
+signed_difference=3.48 px
+confidence=0.95
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.22 px/frame, 0.36 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=9623 ms
+
+Frame    930 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=10.8
+line_thickness=1.55
+OUTER:
+center=(90,65)
+radius=14.3
+difference=3.47 px
+signed_difference=3.47 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=13
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+Frame    960 | FPS: 4.6 | Errors: 0
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=WAITING_FOR_TARGET
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,64)
+radius=23.8
+line_thickness=1.18
+OUTER:
+center=(90,64)
+radius=28.7
+difference=4.94 px
+signed_difference=4.94 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=TRACKING
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=23.7
+line_thickness=1.15
+OUTER:
+center=(90,64)
+radius=29.0
+difference=5.29 px
+signed_difference=5.29 px
+confidence=0.93
+candidates=2
+FPS=4.6
+state=TRACKING
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=22.3
+line_thickness=1.08
+OUTER:
+center=(90,64)
+radius=27.3
+difference=5.04 px
+signed_difference=5.04 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=TRACKING
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,64)
+radius=22.7
+line_thickness=1.36
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=TRACKING
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=TRACKING
+round=14
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 14
+Inner radius: 21.2 px
+Starting outer radius: 28.7 px
+Final outer radius: 25.8 px
+Shrink rate: 1.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 3458 ms
+Predicted match: NA
+Actual match: 3458 ms
+Frames: 5
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+
+INNER:
+center=(90,64)
+radius=21.2
+line_thickness=1.33
+OUTER:
+center=(90,64)
+radius=25.8
+difference=4.58 px
+signed_difference=4.58 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=14
+shrink_rate=0.81 px/frame, 1.00 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=4558 ms
+action=LED flash triggered
+
+INNER:
+center=(90,64)
+radius=21.2
+line_thickness=1.33
+OUTER:
+center=(90,64)
+radius=26.0
+difference=4.81 px
+signed_difference=4.81 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=CLICK_COOLDOWN
+round=14
+shrink_rate=0.57 px/frame, 0.94 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=5138 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=14
+shrink_rate=0.57 px/frame, 0.94 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.6
+state=ROUND_COMPLETE
+round=14
+shrink_rate=0.57 px/frame, 0.94 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=20.1
+line_thickness=1.30
+OUTER:
+center=(90,65)
+radius=24.0
+difference=3.87 px
+signed_difference=3.87 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=14
+shrink_rate=0.69 px/frame, 0.97 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4004 ms
+
+Frame    990 | FPS: 4.6 | Errors: 0
+INNER:
+center=(90,65)
+radius=20.1
+line_thickness=1.30
+OUTER:
+center=(90,65)
+radius=23.8
+difference=3.73 px
+signed_difference=3.73 px
+confidence=0.96
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=14
+shrink_rate=0.57 px/frame, 0.95 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=3933 ms
+
+INNER:
+center=(90,65)
+radius=19.8
+line_thickness=1.28
+OUTER:
+center=(90,64)
+radius=24.2
+difference=4.44 px
+signed_difference=4.44 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=ROUND_COMPLETE
+round=14
+shrink_rate=0.52 px/frame, 0.90 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=4919 ms
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=14
+shrink_rate=0.52 px/frame, 0.90 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=ROUND_COMPLETE
+round=14
+shrink_rate=0.52 px/frame, 0.90 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=18.2
+line_thickness=1.38
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.96
+candidates=1
+FPS=4.7
+state=ROUND_COMPLETE
+round=14
+shrink_rate=0.52 px/frame, 0.90 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=19.0
+line_thickness=1.35
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=15
+shrink_rate=0.52 px/frame, 0.90 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=15
+shrink_rate=0.52 px/frame, 0.90 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=WAITING_FOR_TARGET
+round=15
+shrink_rate=0.52 px/frame, 0.90 px/s
+overlap_minimum=True
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=17.2
+line_thickness=1.36
+OUTER:
+center=(90,64)
+radius=21.0
+difference=3.85 px
+signed_difference=3.85 px
+confidence=0.97
+candidates=2
+FPS=4.7
+state=TRACKING
+round=15
+shrink_rate=0.52 px/frame, 0.90 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=4260 ms
+
+INNER:
+center=(90,65)
+radius=16.5
+line_thickness=1.21
+OUTER:
+center=(90,65)
+radius=20.9
+difference=4.35 px
+signed_difference=4.35 px
+confidence=0.96
+candidates=2
+FPS=4.7
+state=TRACKING
+round=15
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.7
+state=TRACKING
+round=15
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER: not detected
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.00
+candidates=0
+FPS=4.8
+state=TRACKING
+round=15
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=15.3
+line_thickness=1.35
+OUTER: not detected
+difference=NA
+signed_difference=NA
+confidence=0.97
+candidates=1
+FPS=4.6
+state=TRACKING
+round=15
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+INNER:
+center=(90,65)
+radius=15.9
+line_thickness=1.36
+OUTER:
+center=(89,64)
+radius=19.9
+difference=3.96 px
+signed_difference=3.96 px
+confidence=0.97
+candidates=2
+FPS=4.6
+state=TRACKING
+round=15
+shrink_rate=0.00 px/frame, 0.00 px/s
+overlap_minimum=False
+signed_cross=False
+eta_to_match=NA
+
+ROUND 15
+Inner radius: 15.9 px
+Starting outer radius: 21.0 px
+Final outer radius: 20.2 px
+Shrink rate: 0.00 px/sec
+Match tolerance: +/-3.0 px
+Detection time: 2377 ms
+Predicted match: 4260 ms
+Actual match: 2377 ms
+Frames: 5
+Confidence: 0.97
+Flash sent: YES
+Click: SIMULATED LED FLASH
+

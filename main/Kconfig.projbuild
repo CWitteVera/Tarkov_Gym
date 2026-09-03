@@ -1,0 +1,12 @@
+menu "TarkovGym Configuration"
+
+    config ENABLE_CAMERA_DEBUG
+        bool "Enable Camera Debug Display"
+        default y
+        help
+            Enable camera initialization and display on LCD.
+            When disabled, the camera code is not compiled,
+            reducing memory usage and improving performance.
+            Disable this for production builds.
+
+endmenu

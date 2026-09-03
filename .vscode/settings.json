@@ -1,3 +1,17 @@
 {
-    "idf.currentSetup": "c:\\Users\\cwitte\\OneDrive - Vera Bradley Designs Inc\\Documents\\ESP_IDF\\v5.5.2\\esp-idf"
+  "idf.currentSetup": "c:\\Users\\cwitte\\OneDrive - Vera Bradley Designs Inc\\Documents\\ESP_IDF\\v5.5.2\\esp-idf",
+  "idf.portWin": "COM4",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "OPENOCD_USB_ADAPTER_LOCATION": "1-2",
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "C:\\Users\\cwitte\\.espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\GitRepo\\Tarkov_Gym\\build"
+  ]
 }

@@ -1,0 +1,5 @@
+source "C:/Users/cwitte/OneDrive - Vera Bradley Designs Inc/Documents/ESP_IDF/v5.5.2/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/cwitte/OneDrive - Vera Bradley Designs Inc/Documents/ESP_IDF/v5.5.2/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/cwitte/OneDrive - Vera Bradley Designs Inc/Documents/ESP_IDF/v5.5.2/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/cwitte/OneDrive - Vera Bradley Designs Inc/Documents/ESP_IDF/v5.5.2/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/cwitte/OneDrive - Vera Bradley Designs Inc/Documents/ESP_IDF/v5.5.2/esp-idf/components/partition_table/Kconfig.projbuild"
